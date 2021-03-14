@@ -1,0 +1,101 @@
+body{
+    background-color: #EFEFEF;
+}
+.wrapper {
+    overflow-x: hidden;
+    margin-left: 300px}
+
+/*================================
+COLORS
+================================*/   
+.texto-vermelho{
+    color: #B61F1F}
+
+.bg-vermelho{
+    background-color: #B61F1F}
+
+.texto-preto{
+    color: #181818;
+}
+/*================================
+MENU 
+================================*/
+.MenuLateral {
+    width: 23%;
+    max-width: 344px;
+    min-width: 300px;
+    font-family: 'Bebas Neue', cursive;
+    background-image: url(../img/menu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    display: block;
+    padding: 30px;
+    text-align: center;}
+
+
+.MenuLateralImagem {
+    margin-bottom: 30px;}
+    .MenuLateralImagem .ImagemPerfil {
+        width: 70%;}
+    .MenuLateralImagem h3 {
+        color: #000;
+        padding: 6px 0px 0px;
+        margin: 0px;
+        font-weight: 500;
+        font-size: 2rem;
+        letter-spacing: 2px;}
+    .MenuLateralImagem p {
+        color: rgb(233, 233, 233);
+        padding: 0px;
+        font-size: 14px;
+        letter-spacing: 1px;
+        margin: 0px;
+        font-family: 'Roboto', sans-serif;}
+
+.MenuLateralLista {
+    display: block;
+    border-top: 1px solid #181818;
+    padding-top: 10px;} 
+    .MenuLateralLista ul {
+    list-style: none;
+    padding: 0px;
+    margin: auto;
+    text-align: left;}
+        .MenuLateralLista ul li{
+            padding: 4px 0;}
+            .MenuLateralLista ul li a {
+                color: #FFF;
+                padding: 10px 0;
+                font-size: 1.6rem;
+                font-weight: 400;
+                letter-spacing: 2px;}
+
+/*================================
+Goals
+================================*/
+.box-carreira{
+    border-radius: 30px;
+    padding: 30px;
+    margin: 20px;
+}
+
+.Tituloh4{
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+.DescricaoP{
+    margin-bottom: 10px;
+}
+
+.Lista li{
+    list-style: none;
+    margin: 0px;
+}
+    .Lista li p{
+        margin: 0px 0px 5px;
+    }
