@@ -17,6 +17,14 @@ COLORS
 .texto-preto{
     color: #181818;
 }
+
+.active{
+    display: block !important;
+}
+
+.desactive{
+    display: none;
+}
 /*================================
 MENU 
 ================================*/
@@ -73,6 +81,8 @@ MENU
                 font-size: 1.6rem;
                 font-weight: 400;
                 letter-spacing: 2px;}
+            .MenuLateralLista ul li a:hover {
+                cursor: pointer;}
 
 /*================================
 Goals
@@ -81,6 +91,7 @@ Goals
     border-radius: 30px;
     padding: 30px;
     margin: 20px;
+    background-color: #fff;
 }
 
 .Tituloh4{

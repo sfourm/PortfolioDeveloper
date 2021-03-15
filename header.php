@@ -31,8 +31,8 @@
             </div>
             <nav class="MenuLateralLista">
                 <ul>
-                <li><a  class="">SERVIÇOS</a></li>
-                <li><a  class="">PRODUTOS</a></li>
+                <li><a id="about" class="">ABOUT</a></li>
+                <li><a id="experience" class="">EXPERIENCE</a></li>
                 <li><a  class="">QUEM SOMOS</a></li>
                 <li><a  class="">ORÇAMENTO</a></li>
                 <li ><a class="">CONTATO</a></li>

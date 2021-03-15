@@ -36,6 +36,23 @@ $(window).scroll(function () {
        $(".humberger__menu__overlay").removeClass("active");
        $("body").removeClass("over_hid");
    });
+
+//================================//
+//Menu Lateral ===================//
+//================================//
+
+//About
+$("#about").on('click', function () {
+    $(".About").addClass("active");
+    $(".Experience").removeClass("active");
+});
+
+//About
+$("#experience").on('click', function () {
+    $(".Experience").addClass("active");
+    $(".About").removeClass("active");
+});
+
 })(jQuery)
 
 $(document).ready(function () {
