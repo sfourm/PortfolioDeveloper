@@ -1,7 +1,7 @@
 <div class="About desactive active section">
     <div class="container">
         <div class="Welcome box-carreira bg-white">
-            <h3 class="texto-vermelho">Welcome! LALALALALA</h3>
+            <h3 class="texto-vermelho">Welcome!</h3>
             <p class="texto-preto">I'm Samuel Sergio and I'm a <b>fullstack developer</b>. Currently works with development and web applications in <b>Tecnologia Única</b> (remotely) and <b>WebPassos</b>, located in Passos, MG (Brazil).</p>
             <p>Here on this site I will talk a little about what I did and about my professional experiences. It will be a pleasure to have your reading :)</p>
         </div>

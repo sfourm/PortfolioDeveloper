@@ -45,12 +45,32 @@ $(window).scroll(function () {
 $("#about").on('click', function () {
     $(".About").addClass("active");
     $(".Experience").removeClass("active");
+    $(".Skills").removeClass("active");
+    $(".Contact").removeClass("active");
 });
 
 //About
 $("#experience").on('click', function () {
     $(".Experience").addClass("active");
     $(".About").removeClass("active");
+    $(".Skills").removeClass("active");
+    $(".Contact").removeClass("active");
+});
+
+//Skills
+$("#skills").on('click', function () {
+    $(".Skills").addClass("active");
+    $(".About").removeClass("active");
+    $(".Experience").removeClass("active");
+    $(".Contact").removeClass("active");
+});
+
+//Contact
+$("#contact").on('click', function () {
+    $(".Contact").addClass("active");
+    $(".About").removeClass("active");
+    $(".Experience").removeClass("active");
+    $(".Skills").removeClass("active");
 });
 
 })(jQuery)

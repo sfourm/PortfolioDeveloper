@@ -5,5 +5,11 @@
 
         <!-- Experience -->
         <?php require_once "pages/experience.php"?>
+
+        <!-- Skills -->
+        <?php require_once "pages/skills.php"?>
+
+        <!-- Contact -->
+        <?php require_once "pages/contact.php"?>
     </div>
 <?php require_once "footer.php"?>

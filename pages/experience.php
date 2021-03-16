@@ -1,57 +1,45 @@
 <div class="Experience desactive">
     <div class="container">
-        <div class="Welcome box-carreira bg-white">
-            <h3 class="texto-vermelho">Welcome!</h3>
-            <p class="texto-preto">I'm Samuel Sergio and I'm a <b>fullstack developer</b>. Currently works with development and web applications in <b>Tecnologia Única</b> (remotely) and <b>WebPassos</b>, located in Passos, MG (Brazil).</p>
-            <p>Here on this site I will talk a little about what I did and about my professional experiences. It will be a pleasure to have your reading :)</p>
+        <div class="AboutProfessionalExperience box-carreira bg-white">
+            <h3 class="texto-vermelho">Professional Experience</h3>
+            <p class="texto-preto">I started working in the development area in 2019, however, due to the epidemic period - which marked the year 2020 - I went to intensively deepened in the area, completely addicted to coding. </p>
+            <p>Since then I have been focused on <b>fullstack development</b> for web and mobile applications. </p>
+            <p><b>See a little about companies and project I've worked on or am working on.</b></p>
         </div>
 
-        <div class="About-Me box-carreira bg-white">
-            <h3 class="texto-vermelho">About Me</h3>
-            <p class="texto-preto">My name is <b>Samuel Nunes Sergio</b>, I am Brazilian and I was born on September 27, 2000. Aspiring to technologies, I have always shown interest in the area of software development and knowledge, and over time, this longing has intensified. </p>
-            <p>I am very grateful for the opportunity to be able to act in this market so prosperous, creating bonds and with mutual growth. It will be an honor to be able to contact you, regardless of professional issues or clarification of doubts. </p>
-            <p>In the next boxes I will talk about my academic and school formations.</p>
-        </div>
-
-
-        <div class="Goals box-carreira bg-white">
-            <h3 class="texto-vermelho">Goals</h3>
-            <p class="texto-preto">Acting and developing knowledge focused on software technologies, always aiming at mutual and cooperative evolution.</p>
-        </div>
-        
-        <div class="Academic box-carreira bg-white">
-            <h3 class="texto-vermelho">Academic training</h3>
-            
-            <h4 class="Tituloh4">Software Engineer</h4>
-            <p class="DescricaoP">University of Ribeirão Preto - Unaerp</p>
+        <div class="ProfessionalExperience  box-carreira bg-white">
+            <h3 class="texto-vermelho">Jobs</h3>
+            <h4 class="Tituloh4">.NET Fullstack Developer</h4>
+            <p class="DescricaoP">Tecnologia Única || March 2021 - present</p>
             <ul class="Lista">
                 <li>
-                    <p>- Started in 2021 and scheduled to end in 2025.</p>
+                    <p>- Creation of e-commerce, MVC applications, sales and betting systems, API integration, banking development, token authentication and graphic designer.</p>
                 </li>
                 <li>
-                    <p>- Software development and structuring.</p>
+                    <p>- Remote work using agile methodologies - SCRUM</p>
                 </li>
                 <li>
-                    <p>- Application architecture and optimization.</p>
+                    <p>- Languages used: C#/.NET/HTML/CSS/Javascript.</p>
                 </li>
                 <li>
-                    <p>- Project, finance and people management.</p>
+                    <p>- Frameworks/Libraries used: Ionic/Fluent-UI/Microsoft Entity and derivatives/Bootstrap/Jquery.</p>
                 </li>
             </ul>
-            <hr>
-            <h4 class="Tituloh4">Bachelor of Theology</h4>
-            <p class="DescricaoP">Baptist College of Minas Gerais - FBMG</p>
+            <br/>
+            <h4 class="Tituloh4">PHP Fullstack Developer</h4>
+            <p class="DescricaoP">WebPassos || September 2020 - present</p>
             <ul class="Lista">
                 <li>
-                    <p>- Started 2020 - stopped in 2021.</p>
+                    <p>- Creation of e-commerce, sales and betting systems, API integration, banking development, token authentication and graphic designer.</p>
                 </li>
-            </ul>
-            <hr>
-            <h4 class="Tituloh4">High school</h4>
-            <p class="DescricaoP">E.E Professora Julia Kubistchek</p>
-            <ul class="Lista">
                 <li>
-                    <p>- Period completed in 2018.</p>
+                    <p>- Acting as a freelancer.</p>
+                </li>
+                <li>
+                    <p>- Languages used: PHP/HTML/CSS/Javascript.</p>
+                </li>
+                <li>
+                    <p>- Frameworks/Libraries used: React/Node.js/Lavarel/Bootstrap/Jquery/Ajax.</p>
                 </li>
             </ul>
         </div>

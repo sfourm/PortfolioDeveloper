@@ -28,14 +28,14 @@
                 <a href="index.php"><img src="img/perfil.jpg" alt="Samuel Sergio" class="img-fluid rounded-circle ImagemPerfil"></a>
                 <h3>Samuel Sergio</h3>
                 <p>Software Engineer</p>
+                <p>Developer .NET</p>
             </div>
             <nav class="MenuLateralLista">
                 <ul>
                 <li><a id="about" class="">ABOUT</a></li>
                 <li><a id="experience" class="">EXPERIENCE</a></li>
-                <li><a  class="">QUEM SOMOS</a></li>
-                <li><a  class="">ORÇAMENTO</a></li>
-                <li ><a class="">CONTATO</a></li>
+                <li><a  id="skills" class="">SKILLS</a></li>
+                <li ><a id="contact" class="">CONTACT</a></li>
                 </ul>
             </nav>
         </div>
